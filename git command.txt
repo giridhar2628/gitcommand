@@ -1,0 +1,22 @@
+command                    				working function
+
+git init 	        			Create a new repository
+git clone 	        			Copy a repository
+git status 	        			Show current file changes
+git add 	       				Stage files
+git commit 	       				Save a snapshot
+git log 	 				View history
+git diff 					Compare changes
+git branch 					List or create branches
+git branch -d                                   deleted branch   
+git switch 					Change active branch
+git merge 					Combine branches
+git push 					Upload commits
+git pull 					Download commits
+git tag         				List tags    
+git log --oneline 				View short commit history 
+git log          				View commit history 
+git restore 					Undo changes
+git revert 					Safely undo a commit
+git config-"global user.name "name" 		Set global username 
+git config -global user.email "email'" 		Set global email 
